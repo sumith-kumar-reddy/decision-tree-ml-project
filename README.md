@@ -32,4 +32,4 @@ using scikit-learn.
 ## Output
 - Model accuracy
 - Decision tree visualization
-
+<img width="1415" height="812" alt="Image" src="https://github.com/user-attachments/assets/3d2f050b-578a-4546-848f-e8c3465210ad" />
